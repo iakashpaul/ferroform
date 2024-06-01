@@ -1,4 +1,4 @@
-# ff - ferroform
+# Ferroform
 Ferrofluid-like animation for audio waveforms
 
 ## Reference
