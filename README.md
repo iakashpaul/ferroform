@@ -1,6 +1,8 @@
 # Ferroform
 Ferrofluid-like animation for audio waveforms
 
+<img src="ff.png" width="500px">
+
 ## Reference
 Modified source from http://paperjs.org/
 ```
